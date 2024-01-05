@@ -21,7 +21,7 @@ body {
 
 .stats-container {
     display: flex;
-    color: blue;
+    color: black;
     align-items: flex;
     cursor: pointer;
     box-shadow: 0 0 30px lightblue;
